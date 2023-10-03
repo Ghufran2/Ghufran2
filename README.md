@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ghufran2
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently pursuing B.E.
+- 🌱 I’m currently pursuing my life
 - 💞️ I’m looking to collaborate on Cryptography and security
 - 📫 How to reach me ghufu.2000@gmail.com
 
